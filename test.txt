@@ -1,2 +1,5 @@
 test1
+test2
+test3
+
 Test Conflict Merge To Master
